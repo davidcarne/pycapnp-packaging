@@ -1,0 +1,5 @@
+pycapnp (0.6.4-1) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- MAINTAINER <davidcarne@gmail.com>  Wed, 21 Aug 2019 22:43:49 -0700
